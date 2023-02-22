@@ -1,6 +1,4 @@
 ### Hi there 👋
-## This is our final stand. What happens here will echo through the ages. Regardless of outcome, they'll know that we fought with honor. That we fought for the freedom and safety of our people.
-  
   <div align="center">
   <a href="https://github.com/GustavoSRost">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoSRost&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
